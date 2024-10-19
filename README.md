@@ -1,7 +1,8 @@
-# Console Adventure
+# Console Adventure 
 
-A game I made to learn C#.
+A Boilerplate for creating console story / adventure game in C#.
 
-It is a game in terminal where you are in a big mansion, you go through each places in the mansion trying to figure out why you were there in the first place. As you go through each of the mansion place alone you grow anxious to the place. `NOTE: make this description appealing`.
-
-![alt text](image.png)
+**Feature**:
+- Choices UI
+- Animating Monologue Display
+- Story Progression with Decision Tree
